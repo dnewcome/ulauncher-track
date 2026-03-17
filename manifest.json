@@ -11,8 +11,8 @@
         {
             "id": "track_kw",
             "type": "keyword",
-            "name": "Track keyword",
-            "description": "Keyword to trigger the metrics tracker",
+            "name": "Track",
+            "description": "DNuke metrics tracker",
             "default_value": "track"
         }
     ]
