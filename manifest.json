@@ -1,0 +1,19 @@
+{
+    "required_api_version": "2",
+    "name": "Track Metrics",
+    "description": "Track personal metrics with a time-series SQLite database",
+    "developer_name": "dnewcome",
+    "icon": "images/icon.png",
+    "options": {
+        "query_debounce": 0.15
+    },
+    "preferences": [
+        {
+            "id": "track_kw",
+            "type": "keyword",
+            "name": "Track keyword",
+            "description": "Keyword to trigger the metrics tracker",
+            "default_value": "track"
+        }
+    ]
+}
