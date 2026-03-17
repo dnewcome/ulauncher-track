@@ -1,4 +1,4 @@
-# ulauncher-track
+# 📈 ulauncher-track
 
 A [Ulauncher](https://ulauncher.io/) extension for tracking personal metrics — a lightweight quantified-self tool you can use without leaving your keyboard. Log runs, steps, pushups, meditation minutes, or any numeric measurement you care about. All data is stored locally in a SQLite database.
 
