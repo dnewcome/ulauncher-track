@@ -41,10 +41,6 @@ ln -s /path/to/ulauncher-track \
 3. The **Track Metrics** extension should appear — toggle it on
 4. Optionally change the trigger keyword (default: `track`)
 
-### 4. (Optional) Replace the icon
-
-The bundled `images/icon.png` is a plain blue placeholder. Replace it with any 64×64 or 128×128 PNG you like and restart Ulauncher.
-
 ## Usage
 
 Open Ulauncher (default: `Ctrl+Space`) and type `track` followed by a space.
